@@ -11,3 +11,28 @@
 - Eng -> Dar entrada nos dados e armazená-los | Configurar banco de dados | Criar Pipelines de dados | Sólidas habilidades em software 
 - Cien > Explorar dados | Acessar banco de dados | Usam pipelines | Fortes habilidades analíticas 
 
+# Pipeline de dados
+- Dar entrada
+- Processar
+- Armazenar
+- Necessidade de pipelines
+- Automatizar o fluxo de uma estação para outra
+- Disponibilizar dados atualizados, precisos e relevantes 
+
+- Pipelines são os caminhos dos dados
+
+- Automatizam {
+	  - Extração
+	  - Transformação
+	  - Combinação
+	  - Validação
+	  - Carregamento
+- }
+
+- Reduzem {
+	- Intervenção humana
+	- Erros
+	- Tempo necessário para movimentação dos dados
+  }
+
+- ETL - Extração, Transformação e Carregamento
