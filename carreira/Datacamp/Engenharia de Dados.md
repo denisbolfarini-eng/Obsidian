@@ -45,4 +45,16 @@
 - Podem ser agrupados para formar relações
 - Armazenados em bancos de dados relacionais
 - São criados e consultados usando SQL
-- 
+
+Dados semiestruturados
+- Relativamente fáceis de pesquisar e organizar
+- Modelo uniforme, implementação menos rígida: observações diferentes têm tamanhos diferentes
+- Tipos diferentes
+- Podem ser agrupados, mas isso requer mais trabalho
+- NoSQL: JSON, XML, YAML
+
+Não estruturados:
+- Não seguem um modelo, não cabem em linhas e colunas.
+- Difíceis de pesquisa e organizar.
+- Geralmente texto, som, imagens ou vídeos.
+- Normalmente em data lakes, podendo aparecer em data warehouses ou bancos de dados
