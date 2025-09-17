@@ -36,3 +36,13 @@
   }
 
 - ETL - Extração, Transformação e Carregamento
+
+# Estrutura de Dados
+
+-  Fáceis de pesquisar e organizar
+- Modelo uniforme, com linhas e colunas
+- Tipos definidos
+- Podem ser agrupados para formar relações
+- Armazenados em bancos de dados relacionais
+- São criados e consultados usando SQL
+- 
