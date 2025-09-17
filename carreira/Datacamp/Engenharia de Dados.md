@@ -7,7 +7,7 @@
 # Engenheiro x Cientista
 - Eng se concentram na primeira parte do fluxo de trabalho.
 - Cien atuam no restante do fluxo do trabalho
-- Eng estabelecem a basedsa
+- Eng estabelecem a base
 - Eng -> Dar entrada nos dados e armazená-los | Configurar banco de dados | Criar Pipelines de dados | Sólidas habilidades em software 
 - Cien > Explorar dados | Acessar banco de dados | Usam pipelines | Fortes habilidades analíticas 
 
