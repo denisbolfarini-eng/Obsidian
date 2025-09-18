@@ -58,3 +58,12 @@ Não estruturados:
 - Difíceis de pesquisa e organizar.
 - Geralmente texto, som, imagens ou vídeos.
 - Normalmente em data lakes, podendo aparecer em data warehouses ou bancos de dados
+
+# Banco de dados SQL
+
+- Sistema de Gerenciamento de Bancos de Dados Relacionais (RDBMS)
+- Permitir acessar muitos registros de uma só vez e os agrupe, filtre ou agregue
+- Parecido com inglês
+- Eng criar tabelas
+- Cient consultam
+- 
