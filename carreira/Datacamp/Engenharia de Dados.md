@@ -68,5 +68,47 @@ Não estruturados:
 - Cient consultam
 
 # Data warehouses e data lakes
-- 
+- Datalake:
+	- Armazena todos os dados brutos
+	- Pode ser de petabytes (1 milhão de GBs)
+	- Armazena todas as estrutura de dados
+	- Bom custo-benefício
+	- Difícil de analisar
+	- Requer um catálogo de dados
+	- Usado por cientistas de dados
+	- Big data, análise em tempo real
+- Data warehouse:
+	- Dados específicos para uso específico
+	- Relativamente pequeno
+	- Armazena principalmente dados estruturados
+	- Mais caro para atualizar
+	- Otimizado para análise de dados
+	- Também usado por analistas de dados e analistas de negócios
+	- Consultas conforme a necessidade, somente leitura
+- Catalogo de dados para datalakes:
+	- Fonte de verdade que compensa a falta de estrutura
+	- Qual é a fonte desses dados?
+	- Onde esses dados são usados?
+	- Quem é o proprietário dos dados?
+	- Com que frequência esses dados são atualizados?
+	- Boas práticas de governança de dados
+	- Garante reprodutividade
+	- Sem catálogo --> data swamp (pântano de dados)
+	- Boas práticas:
+		- Confiabilidade
+		- Autonomia
+		- Escalabilidade
+		- Velocidade
+
+
+## Banco de dados x data warehouse
+
+- Banco de dados:
+	- Dados organizados e armazenados em computador (termo geral)
+- Data warehouse:
+	- É um tipo de banco de dados
+
+
+
+
 
