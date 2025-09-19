@@ -154,6 +154,21 @@ Ferramentas para agendamento = Apache Airflow e Luigi
 - Menos quantidade de memória
 - Movimentação de dados acarreta custo
 - Maior tempo de comunicação
+## Computação em nuvem
+- Alugados
+- Não precisam de espaço
+- Usam apenas os recursos necessários
+- Quando forem necessários
+- Quanto mais próximos do usuário, melhor
+- Confiabilidade do banco de dados: replicação de dados
+- Risco com dados confidenciais
+
+AWS -> AWS S3 -> EC2 -> RDS
+Azure -> Blob -> Azure Virtual Machines -> Azure SQL Database
+G Cloud -> Cloud Storage -> Google Compute Engine -> Google Cloud SQL
+
+Multinuvem 
+
 
 
 
