@@ -66,4 +66,7 @@ Não estruturados:
 - Parecido com inglês
 - Eng criar tabelas
 - Cient consultam
+
+# Data warehouses e data lakes
 - 
+
