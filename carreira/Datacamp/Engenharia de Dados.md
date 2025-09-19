@@ -136,7 +136,24 @@ Não estruturados:
  - Sempre é necessário um sensor
 ### Lotes e fluxos
 - Agrupam em lotes, mais barato
-- Fluxos : Quando existe um alteração é disparado a alteração
+- Fluxos : Quando existe um alteração é disparado a atualização
+
+Ferramentas para agendamento = Apache Airflow e Luigi
+
+## Computação paralela
+- Base das ferramentas modernas de processamento de dados
+- Necessária:
+	- Principalmente por causa de memória 
+	- Também pela capacidade de processamento
+- Como Funciona:
+	- Divisão das tarefas em várias subtarefas menores
+	- Distribuição dessas subtarefas em vários computadores
+### Benefícios e riscos da computação paralela
+- Funcionários = unidades de processamento
+- Capacidade de processamento extra
+- Menos quantidade de memória
+- Movimentação de dados acarreta custo
+- Maior tempo de comunicação
 
 
 
