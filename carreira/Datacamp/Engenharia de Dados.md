@@ -116,7 +116,27 @@ Não estruturados:
 - Remover dados indesejados
 - Otimizar custos
 - Conversão de dados
+- Organizar dados
+- Seguir esquema/estrutura
+- Aumentar produtividade
+### Como os engenheiros de dados processam os dados
+- Tarefas de manipulação, limpeza e organização de dados -> Automatizadas, Sempre precisaram ser feitas
+- Armazenam dados em um banco de dados estruturado de forma sensata
+- Criam exibições com base nas tabelas do banco de dados
+- Otimizam o desempenho
 
+## Agendamento de dados 
+- Aplicada a qualquer tarefa do processamento de dados 
+- Coesão
+- Organiza o funcionamento do conjunto-
+- Execução em uma ordem específica
+### Agendamento manual, por horário e por sensor
+ - Manual
+ - Automático em horário específico
+ - Sempre é necessário um sensor
+### Lotes e fluxos
+- Agrupam em lotes, mais barato
+- Fluxos : Quando existe um alteração é disparado a alteração
 
 
 
