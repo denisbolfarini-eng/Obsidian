@@ -109,6 +109,18 @@ Não estruturados:
 	- É um tipo de banco de dados
 
 
+# Movimentação e processamento de dados
+
+## Processamento de dados
+- Conversão de dados brutos em informações proveitosas
+- Remover dados indesejados
+- Otimizar custos
+- Conversão de dados
+
+
+
+
+
 
 
 
