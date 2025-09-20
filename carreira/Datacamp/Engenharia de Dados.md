@@ -199,7 +199,17 @@ Sintaxe:
 - 1 para muitos:
 	- Uma única entidade pode se relacionar com muitas entidades
 - 1 para 1:
-	- 
+	- Relação direta e única entre duas entidades em tabelas diferentes
+- Muitos para muitos:
+	- Muitas entidades podem se relacionar com muitas entidades em outra tabela
+
+## Junções múltiplas
+
+- 
+
+
+
+
 
 
 
