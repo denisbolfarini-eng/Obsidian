@@ -176,7 +176,30 @@ Multinuvem
 - **Chave** é uma coluna única ou um grupo de colunas que identifica exclusivamente os registros em uma tabela.
 -  **INNER JOIN**  procura registros em ambas as tabelas que correspondam a um determinado campo.
 - Observação: Você deve usar o formato table.column_name ao selecionar colunas que existem em ambas as tabelas para evitar erro de SQL
-- USING(nome_coluna) = quando o nome das colunas são idênticos 
+- USING(nome_coluna) = quando o nome das colunas são idênticos
+
+Sintaxe:
+
+`SELECT`
+  `f.id AS funcionario_id,      -- Pega o 'id' da tabela Funcionarios e renomeia`
+  `f.nome AS nome_funcionario,    -- Pega o 'nome' da tabela Funcionarios e renomeia`
+  `d.nome AS nome_departamento  -- Pega o 'nome' da tabela Departamentos e renomeia`
+`FROM`
+  `Funcionarios AS f`
+`INNER JOIN`
+  `Departamentos AS d ON f.departamento_id = d.id;`
+
+`-- Exemplo hipotético com USING`
+`SELECT *`
+`FROM Funcionarios`
+`INNER JOIN Departamentos USING(departamento_id);`
+
+## Definições de relações
+
+- 1 para muitos:
+	- Uma única entidade pode se relacionar com muitas entidades
+- 1 para 1:
+	- 
 
 
 
