@@ -205,15 +205,6 @@ Sintaxe:
 
 ## Junções múltiplas
 
-- 
 
-
-
-
-
-
-
-
-
-
+##  Junções externas, junções cruzadas e autojunções
 
