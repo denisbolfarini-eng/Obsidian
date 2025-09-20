@@ -169,6 +169,14 @@ G Cloud -> Cloud Storage -> Google Compute Engine -> Google Cloud SQL
 
 Multinuvem 
 
+# Junção de Dados no SQL
+
+## Os prós e contras da INNER JOIN
+
+- **Chave** é uma coluna única ou um grupo de colunas que identifica exclusivamente os registros em uma tabela.
+-  **INNER JOIN**  procura registros em ambas as tabelas que correspondam a um determinado campo.
+- Observação: Você deve usar o formato table.column_name ao selecionar colunas que existem em ambas as tabelas para evitar erro de SQL
+- USING(nome_coluna) = quando o nome das colunas são idênticos 
 
 
 
