@@ -210,5 +210,12 @@ Sintaxe:
 
 - Left e Right JOIN junta todos os valores, até os não existentes
 
+## FULL JOINs
+
+- Combinam um Right Join com um Left Join, ou seja retornam todos os valores
+- 
+
+
+
 
 
