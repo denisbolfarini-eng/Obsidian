@@ -208,3 +208,7 @@ Sintaxe:
 
 ##  Junções externas, junções cruzadas e autojunções
 
+- Left e Right JOIN junta todos os valores, até os não existentes
+
+
+
