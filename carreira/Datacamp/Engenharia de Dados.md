@@ -224,6 +224,8 @@ Sintaxe:
 		![[Pasted image 20251004103123.png]]
 - Os registros precisam ser parecidos
 
+- Intersect = apenas registros em ambas as tabelas
+
 
 
 
