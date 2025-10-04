@@ -214,7 +214,15 @@ Sintaxe:
  - Combinam um Right Join com um Left Join, ou seja retornam todos os valores
 
 ### Cross Join
-- 
+
+
+# Teoria dos conjuntos em SQL
+
+- Union -> Retorna todos os registros sem repetir os duplicados
+- Union All -> Retorna todos os registros, até os duplicados
+- Sintaxe
+		![[Pasted image 20251004103123.png]]
+- Os registros precisam ser parecidos
 
 
 
