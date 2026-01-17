@@ -229,6 +229,16 @@ Sintaxe:
 
 
 
+Normalização de dados:
+
+- Normalização é um processo para organizar dados em um banco de dados.
+- Existem diferentes níveis chamados "formas normais" (normal forms).
+- As três primeiras formas ajudam a evitar problemas como dados duplicados, dificuldades na inserção ou exclusão de informações.
+- Cada nível tem regras específicas para garantir que os dados fiquem bem organizados e consistentes.
+
+
+
+
 
 
 
