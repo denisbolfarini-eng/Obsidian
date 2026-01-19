@@ -249,7 +249,10 @@ Niveis:
 Database views:
 
 - Tabelas virtuais que não fazem parte do sistema fisico
-- 
+- SELECT * FROM INFORMATION_SCHEMA.views;
+- Não ocupa espaço de armazenamento
+- Controle de acesso
+
 
 
 
