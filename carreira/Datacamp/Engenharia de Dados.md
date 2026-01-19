@@ -236,6 +236,21 @@ Normalização de dados:
 - As três primeiras formas ajudam a evitar problemas como dados duplicados, dificuldades na inserção ou exclusão de informações.
 - Cada nível tem regras específicas para garantir que os dados fiquem bem organizados e consistentes.
 
+Niveis:
+
+1FN: 
+- Atomicidade: cada célula tem que ter apenas um valor
+2FN: 
+- Dependência Parcial: A tabela deve estar em 1FN e todos os atributos que não são chave devem depender da chave primária inteira
+3FN:
+- Dependência Transitiva: A tabela deve estar em 2FN e não pode haver dependência entre colunas que não são chaves 
+
+
+Database views:
+
+- Tabelas virtuais que não fazem parte do sistema fisico
+- 
+
 
 
 
